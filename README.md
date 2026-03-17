@@ -20,6 +20,10 @@ Clone the repo:
 	git clone https://github.com/kenjirou2/string.h.git
 ```
 
+include the file header in your C/Cpp project:
+
+
+
 ```
 	#include "string.h"
 ```
